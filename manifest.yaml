@@ -12,6 +12,7 @@ packages:
 
 repos:
 - fedora
+- fedora-updates
 - fedora-coreos-pool
 - rpmfusion-free
 - rpmfusion-nonfree
