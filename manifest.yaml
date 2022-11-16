@@ -20,3 +20,5 @@ repos:
 - fedora-coreos-pool
 - rpmfusion-free
 - rpmfusion-nonfree
+- rpmfusion-free-updates
+- rpmfusion-nonfree-updates
