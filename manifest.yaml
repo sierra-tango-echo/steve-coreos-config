@@ -8,8 +8,8 @@ include: manifests/fedora-coreos.yaml
 
 packages:
 - gcc
-- akmod-nvidia
-- xorg-x11-drv-nvidia-cuda
+  #- akmod-nvidia
+  #- xorg-x11-drv-nvidia-cuda
 - kernel-devel
 - kernel-headers
 
@@ -18,7 +18,7 @@ repos:
 - fedora-updates
 - fedora-modular
 - fedora-coreos-pool
-- rpmfusion-free
-- rpmfusion-nonfree
-- rpmfusion-free-updates
-- rpmfusion-nonfree-updates
+  #- rpmfusion-free
+  #- rpmfusion-nonfree
+  #- rpmfusion-free-updates
+  #- rpmfusion-nonfree-updates
