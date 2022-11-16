@@ -9,9 +9,10 @@ include: manifests/fedora-coreos.yaml
 packages:
 - gcc
   #- akmod-nvidia
-- xorg-x11-drv-nvidia-cuda
+#- xorg-x11-drv-nvidia-cuda
 - kernel-devel
 - kernel-headers
+- kernel-core
 
 repos:
 - fedora
